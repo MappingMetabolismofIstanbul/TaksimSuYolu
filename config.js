@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Taksim Suyolu / Taksim Waterway',
+    title: 'Suyun Metabolik Akışı: Taksim Suyolu / Metabolic Flow of Water: Taksim Waterway',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
