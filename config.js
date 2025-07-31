@@ -135,7 +135,7 @@ var config = {
         },
         {
             id: 'eigth-chapter',
-            alignment: 'left',
+            alignment: 'centered',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/BH8F1QRh/MEF-AAP-027-BAP-2025-07-31-09-18-00.png',
